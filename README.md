@@ -19,7 +19,7 @@ API are built based on REST style.
 
 
 ## Database design:
-
+![plot](./weatherdb-schema.png)
 
 ## Technology Stack:
 * SpringBoot
